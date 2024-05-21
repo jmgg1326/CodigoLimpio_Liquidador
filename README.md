@@ -46,7 +46,4 @@ El programa ofrece la opción de modificar los parámetros globales, como el sub
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
 
 ## Desarrolladores
-
 - Juan Manuel Garcia (jmgg1326)
-- Daniel Meza (drac245)
-- Esteban Parra Zapata (Esteban1903)
